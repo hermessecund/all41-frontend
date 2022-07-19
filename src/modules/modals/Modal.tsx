@@ -75,7 +75,7 @@ export default function Modal({
                     aria-label="Close"
                     onClick={close}
                   >
-                    <Close className="w-full h-full" />
+                    <close className="w-full h-full" />
                   </button>
                 </div>
               )}
